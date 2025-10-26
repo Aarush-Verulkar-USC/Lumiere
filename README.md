@@ -206,8 +206,3 @@ This project is licensed under the MIT License.
 - **FastAPI** - Modern Python web framework
 - **React** - UI library
 
----
-
-⭐️ Star this repo if you find it helpful!
-
-Built with ❤️ using AI and Graph Technology

@@ -1,0 +1,13 @@
+# requirements.txt
+pandas
+neo4j
+python-dotenv
+requests
+tqdm
+node2vec
+networkx==2.8.8  # Pin this version for compatibility with node2vec
+fastapi
+uvicorn[standard]
+streamlit
+plotly
+scikit-learn  # For PCA in embeddings visualization
